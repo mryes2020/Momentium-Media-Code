@@ -6,7 +6,10 @@ But yeah.. its okay for me
 # Installation 
 To install it just do `git clone https://github.com/mryes2020/Momentium-Media-Code`
 And then: `cd Momentium-Media-Code; npm install`
-
+you must have a firebase.google.com account<br>
+after setting an account up, make a cloud firestore database and copy paste its api into the /src/components/firebase/database-connection.js<br>
+If you get stuck, contact me in anyway or just find a good tutorial online<br>
+for example.. this is what i found: https://www.youtube.com/watch?v=-UOkri_WNWQ&ab_channel=AlrightDevelopment<br><br>
 # Start the website on local server
 To start it use `npm start` command inside the installation folder
 
