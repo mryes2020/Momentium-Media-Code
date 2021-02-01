@@ -1,0 +1,45 @@
+.login-form- {
+    margin-top: 30px;
+}
+
+
+.login-form- * {
+    margin: 10px 0px; 
+}
+.login-form- .login-input- {
+    background: transparent; 
+    color: #92DCE5; 
+    border: none;
+    border: 1px solid #92DCE5; 
+
+    padding: 10px; 
+    border-radius: .2em !important;
+    transition: .1s; 
+
+}
+.login-form- .login-input-:hover {
+    background: rgba(171, 230, 238, 0.219); 
+}
+
+.login-form- .login-btn {
+    background: transparent; 
+    border-radius: .2em !important; 
+    color: #92DCE5; 
+    border: 1px solid #92DCE5; 
+    transition: .1s;
+    padding: 10px 20px; 
+}
+.login-form- .login-btn:hover {
+    background: #92DCE5; 
+    color: #2B2D42; 
+}
+.login-link {
+    text-decoration: none; 
+    color: white; 
+    opacity: .7; 
+    cursor: pointer;
+}
+.login-link:hover {
+    opacity: 1; 
+    color: white;
+}

@@ -1,0 +1,11 @@
+body {
+  background: #2B2D42; 
+  color: #92DCE5; 
+}
+
+
+
+.header-text {
+  text-transform: uppercase; 
+  letter-spacing: 2px;
+}

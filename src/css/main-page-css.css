@@ -1,0 +1,95 @@
+body {
+    padding: 0; 
+    margin: 0; 
+    overflow-x: hidden;
+}
+
+.posts-container {
+    margin-top: 20px;
+}
+
+.fancy-button-1 {
+    background: transparent; 
+    padding: 10px 20px; 
+    border: 1px solid #92DCE5; 
+    color: #92DCE5; 
+    border-radius: .2rem !important; 
+    transition: .1s; 
+
+}
+.fancy-button-1:hover {
+    background: #92DCE5; 
+    color: #2B2D42;
+}
+.publish-post-container- {
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-between;
+}
+
+
+/* modals CSS3 */
+
+/* publish a post CSS3 */
+
+.publish-post-modal- {
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100vw;
+    height: 100vh; 
+    background: rgba(0, 0, 0, 0.356);
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+.publish-post-modal- .modal-content-container- {
+    background: white; 
+    border-radius: .4rem !important;
+    padding: 20px 40px;
+    color: #2B2D42;
+}
+.post-form- * {
+    margin: 10px 0px;
+}
+.post-form- .fancy-input {
+    background: transparent; 
+    color: #2B2D42;
+    border: 1px solid #2B2D42; 
+    padding: 10px 20px; 
+    border-radius: .2em !important; 
+    transition: .1s; 
+}
+.post-form- .fancy-input:hover {
+    background: rgba(43, 45, 66, 0.137);
+}
+.post-form- .fancy-file-input {
+    cursor: pointer;
+}
+.fancy-button-2 {
+    background: transparent; 
+    padding: 10px 20px; 
+    border: 1px solid rgb(82, 151, 160); 
+    color: rgb(82, 151, 160); 
+    border-radius: .2rem !important; 
+    transition: .1s; 
+
+}
+.fancy-button-2:hover {
+    background: rgb(82, 151, 160); 
+    color: #2B2D42;
+}
+.modal-border {
+    display: none; 
+}
+.post- {
+    
+    margin-top: 50px;
+}
+.post-image- {
+    border: 1px solid white;
+    border-radius: .1em !important;
+}
+/* publish a post CSS3 */
+
+/* modals CSS3 */
