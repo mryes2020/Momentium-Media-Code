@@ -1,3 +1,15 @@
+# Description 
+This project is all about a social media website I made in around 1 week. 
+The code itself is not beautiful, and it does not have all the mechanics a normal social media has like likes, comments and so on 
+But yeah.. its okay for me
+
+# Installation 
+To install it just do `git clone https://github.com/mryes2020/Momentium-Media-Code`
+And then: `cd Momentium-Media-Code; npm install`
+
+# Start the website on local server
+To start it use `npm start` command inside the installation folder
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
